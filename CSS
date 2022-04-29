@@ -1,0 +1,12 @@
+ body{
+  font-family: nunito;
+   font-size:20px;
+  background: #000;
+  color: white;
+  text-align: center;
+}
+#img-div{
+  position:relative;
+  display:flex;
+  justify-content:center;
+}
